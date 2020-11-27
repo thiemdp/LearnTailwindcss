@@ -1,4 +1,5 @@
 # LearnTailwindcss
 # Install
 - Clone code from git
-- run npm install
+- cd to folder project
+- cmd > run npm install
