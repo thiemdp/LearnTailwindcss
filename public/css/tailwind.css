@@ -31171,6 +31171,13 @@ video {
           animation: bounce 1s infinite;
 }
 
+.btn {
+  border-radius: 0.75rem;
+  border-width: 1px;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
