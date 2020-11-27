@@ -10,3 +10,4 @@
  - prod: npm run tw:prod
 # MinhND
 - Em sửa nè!
+- Em da lam xong chuc nang 01
